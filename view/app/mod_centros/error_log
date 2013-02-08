@@ -1,0 +1,1 @@
+[24-Feb-2012 18:11:47] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/indigamx/public_html/proyectos/geolocalizacion/view/app/mod_sucursales/edit_sucur.php on line 29

@@ -1,0 +1,14 @@
+[24-Feb-2012 13:02:18] PHP Parse error:  syntax error, unexpected '}' in /home/indigamx/public_html/proyectos/geolocalizacion/view/app/mod_ofertas/edit_ofer.php on line 496
+[16-Jan-2013 05:34:29 UTC] PHP Fatal error:  Call to undefined method agent::consulta_sucur() in /home/starktec/public_html/proyectos/sistemas/sg/view/app/mod_ofertas/add_ofer.php on line 372
+[03-Feb-2013 03:11:34 UTC] PHP Fatal error:  Call to undefined method agent::consulta_centro() in /home/starktec/public_html/proyectos/sistemas/sg/view/app/mod_personal/add_personal.php on line 253
+[03-Feb-2013 03:11:54 UTC] PHP Fatal error:  Call to undefined method agent::consulta_centro() in /home/starktec/public_html/proyectos/sistemas/sg/view/app/mod_personal/add_personal.php on line 253
+[03-Feb-2013 03:12:15 UTC] PHP Fatal error:  Call to undefined method agent::consulta_centro() in /home/starktec/public_html/proyectos/sistemas/sg/view/app/mod_personal/add_personal.php on line 253
+[03-Feb-2013 03:12:44 UTC] PHP Fatal error:  Call to undefined method agent::consulta_centro() in /home/starktec/public_html/proyectos/sistemas/sg/view/app/mod_personal/edit_personal.php on line 253
+[07-Feb-2013 03:24:45 UTC] PHP Fatal error:  Call to undefined method agent::consulta_centro() in /home/starktec/public_html/proyectos/sistemas/sg/view/app/mod_personal/add_personal.php on line 253
+[07-Feb-2013 04:09:28 UTC] PHP Fatal error:  Call to undefined method agent::consulta_centro() in /home/starktec/public_html/proyectos/sistemas/sg/view/app/mod_personal/add_personal.php on line 253
+[07-Feb-2013 04:09:34 UTC] PHP Fatal error:  Call to undefined method agent::consulta_centro() in /home/starktec/public_html/proyectos/sistemas/sg/view/app/mod_personal/add_personal.php on line 253
+[07-Feb-2013 04:22:29 UTC] PHP Fatal error:  Call to undefined method agent::consulta_centro() in /home/starktec/public_html/proyectos/sistemas/sg/view/app/mod_personal/add_personal.php on line 253
+[07-Feb-2013 04:24:09 UTC] PHP Fatal error:  Call to undefined method agent::consulta_centro() in /home/starktec/public_html/proyectos/sistemas/sg/view/app/mod_personal/add_personal.php on line 253
+[07-Feb-2013 04:30:59 UTC] PHP Fatal error:  Call to undefined method agent::consulta_centro() in /home/starktec/public_html/proyectos/sistemas/sg/view/app/mod_personal/add_personal.php on line 253
+[07-Feb-2013 04:31:02 UTC] PHP Fatal error:  Call to undefined method agent::consulta_centro() in /home/starktec/public_html/proyectos/sistemas/sg/view/app/mod_personal/add_personal.php on line 253
+[07-Feb-2013 04:34:01 UTC] PHP Fatal error:  Call to undefined method agent::consulta_centro() in /home/starktec/public_html/proyectos/sistemas/sg/view/app/mod_personal/add_personal.php on line 253

@@ -1,0 +1,2 @@
+[24-Feb-2012 13:02:18] PHP Parse error:  syntax error, unexpected '}' in /home/indigamx/public_html/proyectos/geolocalizacion/view/app/mod_ofertas/edit_ofer.php on line 496
+[16-Jan-2013 05:34:29 UTC] PHP Fatal error:  Call to undefined method agent::consulta_sucur() in /home/starktec/public_html/proyectos/sistemas/sg/view/app/mod_ofertas/add_ofer.php on line 372
